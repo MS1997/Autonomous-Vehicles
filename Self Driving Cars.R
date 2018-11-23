@@ -1,6 +1,3 @@
-getwd()
-setwd("C:/Users/Metika/Desktop/R direct")
-
 library("caret")
 library("rpart")
 library("rpart.plot")
